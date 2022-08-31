@@ -37,7 +37,7 @@ class MyHomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
 
-        title: Text('getx practice'),
+        title: Text('getx practice1'),
       ),
       body: Center(
 
